@@ -1,0 +1,68 @@
+.heading{
+
+  top: 50px;
+  color: lime;
+  margin: 0 auto;
+  display: inline-block;
+
+}
+.threat{
+  color: red;
+  font-size: 44px;
+}
+div{
+  margin: 0px;
+}
+.code{
+  background-color: lime;
+  color: black;
+
+}
+.codebackground{
+  background-image: url("./giphy.gif") ;
+  background-color: black;
+  text-align: center;
+  padding-top: 80px;
+  margin-bottom: 200px
+}
+.headingbox{
+  position: relative;
+  height: 530px;
+
+}
+.jacobbod{
+  width: 200px;
+  position: absolute;
+  right:250px;
+  top: 20px;
+}
+.jacobbod2{
+  width: 180px;
+  position: absolute;
+  left:250px;
+  top: 50px;
+}
+.bodybox{
+  position: relative;
+  height: 460px;
+  padding-top: 150px;
+  text-align: left;
+  padding-bottom: 350px;
+}
+.jacobbod3{
+  width: 18%;
+  margin-right: 40px;
+  float: left;
+
+}
+.btn{
+  text-decoration: none;
+  color: lime;
+  font-size: 70px;
+  text-align: center;
+}
+.btn:hover{
+  text-decoration: none;
+  background-color: lime;
+  color: black;
+}
